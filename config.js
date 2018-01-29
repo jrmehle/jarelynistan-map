@@ -1,9 +1,15 @@
 var CONFIG = {
   "maps": {
-    "map_myworld": {
+    "jarelynistan": {
+      "defaultView": [
+        320,
+        142,
+        64
+      ],
+      "defaultZoom": 3,
       "imageFormat": "png",
       "lastRendered": [
-        1517121542,
+        1517194361,
         0,
         0,
         0
@@ -15,18 +21,18 @@ var CONFIG = {
         0
       ],
       "textureSize": 12,
-      "tileSetGroup": "myworld_isometric_t1",
+      "tileSetGroup": "jarelynistan_isometric_t1",
       "tileSize": 384,
-      "world": "myworld",
-      "worldName": "myworld",
+      "world": "jarelynistan",
+      "worldName": "jarelynistan",
       "worldSeaLevel": 64
     }
   },
   "mapsOrder": [
-    "map_myworld"
+    "jarelynistan"
   ],
   "tileSetGroups": {
-    "myworld_isometric_t1": {
+    "jarelynistan_isometric_t1": {
       "maxZoom": 7,
       "tileOffsets": [
         [
